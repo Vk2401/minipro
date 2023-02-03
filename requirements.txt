@@ -1,0 +1,7 @@
+streamlit
+nltk
+sklearn
+requests
+numpy
+bs4
+joblib
